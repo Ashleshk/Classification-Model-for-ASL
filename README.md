@@ -13,6 +13,5 @@ The ASL Alphabet dataset contains over 87,000 labeled images of hand gestures re
 
 
 
-
 ![ASL DataSet](https://github.com/Ashleshk/Classification-Model-for-ASL/blob/main/images/data.png)
 
